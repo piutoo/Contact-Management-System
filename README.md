@@ -27,3 +27,17 @@ Screenshots of the application can be found in the `screenshots` folder.
 
 ## Running the Project
 This project uses CodeIgniter 4 and requires a local PHP environment and a configured database to run.
+
+## Screenshots
+
+### Contacts List
+![Contacts List](screenshots/HomePage.png)
+
+### Add Contact
+![Add Contact](screenshots/AddContact.png)
+
+### Edit Contact
+![Edit Contact](screenshots/EditedContact.png)
+
+### Form Validation
+![Form Validation](screenshots/FormValidation.png)
