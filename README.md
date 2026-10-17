@@ -31,13 +31,16 @@ This project uses CodeIgniter 4 and requires a local PHP environment and a confi
 ## Screenshots
 
 ### Contacts List
-![Contacts List](C:\xampp\htdocs\ContactManagement\Screenshots\AddContact.png)
+![Contacts List](screenshots/HomePage.png)
 
 ### Add Contact
 ![Add Contact](screenshots/AddContact.png)
 
 ### Edit Contact
 ![Edit Contact](screenshots/EditedContact.png)
+
+### Delete Contact
+![Delete Contact](screenshots/DeleteContact.png)
 
 ### Form Validation
 ![Form Validation](screenshots/FormValidation.png)
