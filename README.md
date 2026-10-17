@@ -32,19 +32,19 @@ This project uses CodeIgniter 4 and requires a local PHP environment and a confi
 ## Screenshots
 
 ### Contacts List
-![Contacts List](screenshots/HomePage.png)
+![Contacts List](Screenshots/HomePage.png)
 
 ### Add Contact
-![Add Contact](screenshots/AddContact.png)
+![Add Contact](Screenshots/AddContact.png)
 
 ### Edited Contact
-![Edited Contact](screenshots/EditedContact.png)
+![Edited Contact](Screenshots/EditedContact.png)
 
 ### Deleted Contact
-![Deleted Contact](screenshots/DeletedContact.png)
+![Deleted Contact](Screenshots/DeletedContact.png)
 
 ### Form Validation
-![Form Validation](screenshots/FormValidation.png)
+![Form Validation](Screenshots/FormValidation.png)
 
 ### Search Function
-[Watch Search Demonstration](screenshots/SearchFunction.mp4)
+[Watch Search Demonstration](Screenshots/SearchFunction.mp4)
