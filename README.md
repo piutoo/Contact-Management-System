@@ -31,7 +31,7 @@ This project uses CodeIgniter 4 and requires a local PHP environment and a confi
 ## Screenshots
 
 ### Contacts List
-![Contacts List](screenshots/HomePage.png)
+![Contacts List](C:\xampp\htdocs\ContactManagement\Screenshots\AddContact.png)
 
 ### Add Contact
 ![Add Contact](screenshots/AddContact.png)
